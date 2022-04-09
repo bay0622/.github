@@ -4,7 +4,6 @@ about: 資料要望
 title: ''
 labels: documentation
 assignees: ''
-
 ---
 
 ## :notebook_with_decorative_cover: About

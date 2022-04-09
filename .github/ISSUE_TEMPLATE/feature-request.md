@@ -4,7 +4,6 @@ about: 機能要望
 title: ''
 labels: enhancement
 assignees: ''
-
 ---
 
 ## :ledger: Background

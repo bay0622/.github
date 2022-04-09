@@ -4,7 +4,6 @@ about: 不具合報告
 title: ''
 labels: bug
 assignees: ''
-
 ---
 
 ## :bug: Summary
