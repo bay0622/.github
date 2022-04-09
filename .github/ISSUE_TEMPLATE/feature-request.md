@@ -1,5 +1,5 @@
 ---
-name: Feature
+name: Feature request
 about: 機能要望
 title: ''
 labels: enhancement
